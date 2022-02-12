@@ -1,0 +1,59 @@
+html,body{
+
+    
+    justify-content: center;
+    align-items: baseline;
+    height: 100vh;
+    margin: 0;
+    background: #222;
+    font-family: sans-serif;
+    font-size: 120%;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ZFaxdsZGeqyJJmdN2GuFtpc1qceMdm8S__CP5lh5Hd-OSz1TffqYJySdewvM88Ey04U&usqp=CAU');
+background-size: cover;
+position: auto;
+overflow: hidden;
+}
+.container
+{
+    margin: 0;
+    
+   
+}
+.container
+{
+display: flex;
+justify-content:center;
+color: white;
+margin-top:1cm;
+}
+#inputfield
+{
+    width:300px;
+    height: 46px;
+    border:1px solid black;
+    border-radius: 40px;
+    outline: none;
+    font-size: 25px;
+  
+    
+}
+#addtodo
+{
+    height: 45px;
+    width:50px;
+    border:2px solid white;
+    border-radius: 55px;
+    vertical-align: middle;
+    margin-top:-0.4cm;
+}
+.to-dos
+{
+    margin-top:25px;
+}
+.paragraph-styling
+{
+    margin:0;
+    font-size:30px;
+    cursor: pointer;
+
+}
